@@ -5,6 +5,7 @@
 
 # production
 /dist
+/assets
 
 # misc
 .DS_Store
