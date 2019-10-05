@@ -1,0 +1,9 @@
+.Banner_Background {
+  width: 100vw;
+  z-index: 1;
+}
+.Banner_Container {
+  width: 100vw;
+  height: 14vw;
+  z-index: 1;
+}

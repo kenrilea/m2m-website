@@ -1,0 +1,183 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "THREE.GLTFExporter"
+  },
+  "scenes": [
+    {
+      "nodes": [
+        2
+      ],
+      "name": "AuxScene"
+    }
+  ],
+  "scene": 0,
+  "nodes": [
+    {
+      "matrix": [
+        -65.15583280329092,
+        -44.527135765708536,
+        -61.417030473735466,
+        0,
+        -32.401341378212415,
+        89.53957451233617,
+        -30.542088974418593,
+        0,
+        68.5920547212997,
+        -0.00001071864711812434,
+        -72.76763362396262,
+        0,
+        748.1131591796875,
+        534.3665161132812,
+        650.7639770507812,
+        1
+      ],
+      "name": "Camera",
+      "camera": 0
+    },
+    {
+      "matrix": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        -0.000016292067961387602,
+        -99.99999999999868,
+        0,
+        0,
+        99.99999999999868,
+        -0.000016292067961387602,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "Cube",
+      "mesh": 0
+    },
+    {
+      "children": [
+        0,
+        1
+      ]
+    }
+  ],
+  "cameras": [
+    {
+      "type": "perspective",
+      "perspective": {
+        "aspectRatio": 1.7777777777777777,
+        "yfov": 0.30843838250961614,
+        "zfar": 10,
+        "znear": 0.010000000149011612
+      },
+      "name": "PerspectiveCamera"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 432,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 432,
+      "byteLength": 432,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 864,
+      "byteLength": 72,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 936,
+      "uri": "data:application/octet-stream;base64,AACAP///fz8AAIC/AACAPwAAgL8AAIC/AQCAv/3/f78AAIC/AACAP///fz8AAIC/AQCAv/3/f78AAIC/+v9/vwMAgD8AAIC/BACAP/f/fz8AAIA///9/vwAAgD8AAIA/AwCAv/r/f78AAIA/BACAP/f/fz8AAIA/AwCAv/r/f78AAIA/9f9/PwUAgL8AAIA/AACAP///fz8AAIC/BACAP/f/fz8AAIA/9f9/PwUAgL8AAIA/AACAP///fz8AAIC/9f9/PwUAgL8AAIA/AACAPwAAgL8AAIC/AACAPwAAgL8AAIC/9f9/PwUAgL8AAIA/AwCAv/r/f78AAIA/AACAPwAAgL8AAIC/AwCAv/r/f78AAIA/AQCAv/3/f78AAIC/AQCAv/3/f78AAIC/AwCAv/r/f78AAIA///9/vwAAgD8AAIA/AQCAv/3/f78AAIC///9/vwAAgD8AAIA/+v9/vwMAgD8AAIC/BACAP/f/fz8AAIA/AACAP///fz8AAIC/+v9/vwMAgD8AAIC/BACAP/f/fz8AAIA/+v9/vwMAgD8AAIC///9/vwAAgD8AAIA/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAMwAAAAAAAIA/AAAAMwAAAAAAAIA/AAAAMwAAAAAAAIA/AAAAMwAAAAAAAIA/AAAAMwAAAAAAAIA/AAAAMwAAAAAAAIA/AACAPwAAoLTo/z8zAACAPwAAoLTo/z8zAACAPwAAoLTo/z8zAACAPwAAoLTo/z8zAACAPwAAoLTo/z8zAACAPwAAoLTo/z8zAQCYtAAAgL8DAEC0AQCYtAAAgL8DAEC0AQCYtAAAgL8DAEC0AQCYtAAAgL8DAEC0AQCYtAAAgL8DAEC0AQCYtAAAgL8DAEC0AACAvwAAgDT//w+0AACAvwAAgDT//w+0AACAvwAAgDT//w+0AACAvwAAgDT//w+0AACAvwAAgDT//w+0AACAvwAAgDT//w+0AACANAAAgD8BADA0AACANAAAgD8BADA0AACANAAAgD8BADA0AACANAAAgD8BADA0AACANAAAgD8BADA0AACANAAAgD8BADA0AAABAAIAAwAEAAUABgAHAAgACQAKAAsADAANAA4ADwAQABEAEgATABQAFQAWABcAGAAZABoAGwAcAB0AHgAfACAAIQAiACMA"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 36,
+      "max": [
+        1.0000004768371582,
+        1.0000003576278687,
+        1
+      ],
+      "min": [
+        -1.0000003576278687,
+        -1.0000005960464478,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 36,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5123,
+      "count": 36,
+      "max": [
+        35
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1
+        ],
+        "metallicFactor": 0.5,
+        "roughnessFactor": 0.5
+      },
+      "name": "Material"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1
+          },
+          "indices": 2,
+          "material": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+.Table_Container {
+    background-color: blue;
+    border-style: solid;
+    border-top-width: 0.5px;
+    border-bottom-width: 0.5px;
+    border-color: rgb(165, 165, 165);
+    margin-top: 10px;
+    width: 200px;
+    display: inline-block;
+}

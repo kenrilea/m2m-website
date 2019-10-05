@@ -1,0 +1,16 @@
+.Wiki_Link {
+  margin: auto;
+  z-index: 20;
+  padding-left: 10px;
+  padding-right: 40px;
+  text-decoration: none;
+  line-height: 50px;
+  text-align: end;
+}
+.Wiki_Link_Container {
+  position: absolute;
+  top: 0px;
+  z-index: 200;
+  width: 100vw;
+  text-align: end;
+}

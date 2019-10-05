@@ -1,0 +1,32 @@
+body {
+  background-color: rgba(20, 18, 16, 1);
+  margin: 0;
+}
+.Page_Default {
+  z-index: 2;
+}
+.Heading_Default {
+  color: white;
+  margin: auto;
+  font-size: 30px;
+}
+.Link_Default {
+  text-decoration: none;
+}
+.Paragraph_Default {
+  padding-left: 10%;
+  padding-right: 10%;
+  color: white;
+  z-index: 2;
+}
+.Font_Default {
+  color: white;
+}
+.Card_Heading_Default {
+  color: white;
+  margin: auto;
+  font-size: 20px;
+}
+.Small_Image {
+  height: 50px;
+}

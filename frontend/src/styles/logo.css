@@ -1,0 +1,27 @@
+.Banner_Mars {
+  width: 10vw;
+  left: 5.5vw;
+  top: -1.1vw;
+  z-index: 9;
+  position: relative;
+}
+.Banner_Heading {
+  color: white;
+  z-index: 3;
+  font-size: 6vw;
+  z-index: 10;
+  position: absolute;
+  font-weight: bold;
+}
+.Banner_Heading_Letter {
+}
+.Banner_Heading_Letter_Middle {
+  margin-left: 2.5vw;
+  margin-right: 2.5vw;
+  z-index: 10;
+}
+.Logo_Div {
+  top: 4vw;
+  position: absolute;
+  left: 39.5vw;
+}

@@ -1,0 +1,17 @@
+.Table_Row_Container {
+    background-color: white;
+    display: flex;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: rgba(165, 165, 165, 0.616);
+}
+.Table_Box {
+    padding: 5px;
+    background-color: white;
+    border-style: solid;
+    border-left-width: 0.5px;
+    border-right-width: 0.5px;
+    border-color: rgba(165, 165, 165, 0.616);
+    width: 50%;
+    text-align: center;
+}
