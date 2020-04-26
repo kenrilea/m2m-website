@@ -1,0 +1,46 @@
+.Intro_Container {
+  text-align: center;
+  height: 60vw;
+}
+.Intro_Banner_Image {
+  left: 0vw;
+  z-index: 5;
+  width: 100vw;
+}
+.Intro_Banner_Image_Container {
+  left: 0vw;
+  z-index: 5;
+  width: 100vw;
+  position: absolute;
+  top: 0px;
+}
+.Intro_Banner_Text {
+  position: relative;
+  height: 10vh;
+  z-index: 15;
+  margin-top: 50px;
+}
+.Intro_Banner_Transition_Image {
+  left: 0vw;
+  z-index: 5;
+  width: 100vw;
+  position: relative;
+  top: -30vw;
+}
+.Intro_Banner_Fade {
+  position: absolute;
+  z-index: 10;
+  background: rgba(20, 18, 16, 1);
+  background: linear-gradient(
+    0deg,
+    rgba(20, 18, 16, 1) 0%,
+    rgba(20, 18, 16, 0.32) 20%,
+    rgba(20, 18, 16, 0.16) 40%,
+    rgba(20, 18, 16, 0.04) 60%,
+    rgba(20, 18, 16, 0.02) 80%,
+    rgba(20, 18, 16, 0) 100%
+  );
+  height: 56.25vw;
+  width: 100vw;
+  top: 0px;
+}

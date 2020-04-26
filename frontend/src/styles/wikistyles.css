@@ -1,0 +1,31 @@
+.Item_Container {
+  text-decoration: none;
+  font-size: 8px;
+
+  overflow-wrap: normal;
+  align-content: center;
+  text-align: center;
+  padding: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin: 10px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgb(65, 58, 53);
+  width: 175px;
+  height: 110px;
+}
+.List_Container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80vw;
+  align-self: center;
+  margin: auto;
+  justify-content: center;
+  margin-top: 20px;
+}
+.Item_Detail_Container {
+  border: none;
+  justify-content: center;
+  width: 80vw;
+}

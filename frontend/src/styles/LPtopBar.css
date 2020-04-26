@@ -1,0 +1,23 @@
+.Top_Bar_Container {
+  display: flex;
+  text-align: space-between;
+  z-index: 20;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: white;
+  position: sticky;
+  height: 50px;
+  top: 0;
+  background: url(http://localhost:4000/assets/banner-background.png);
+}
+.Top_Bar_Link {
+  z-index: 20;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-decoration: none;
+  line-height: 50px;
+}
+.Top_Bar_Link:hover {
+  color: rgb(216, 216, 216);
+  cursor: pointer;
+}
